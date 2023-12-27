@@ -1,0 +1,41 @@
+2023/10/22 17:06:33 [emerg] 13#13: open() "/var/www/mehanizm.localhost/logs/error.log" failed (2: No such file or directory)
+2023/10/22 17:06:57 [emerg] 9#9: open() "/var/www/mehanizm.localhost/logs/error.log" failed (2: No such file or directory)
+2023/11/05 13:36:51 [notice] 33#33: signal process started
+2023/11/05 13:42:48 [notice] 43#43: signal process started
+2023/11/05 13:45:28 [notice] 54#54: signal process started
+2023/11/07 13:04:57 [notice] 313#313: signal process started
+2023/11/10 22:54:40 [notice] 214#214: signal process started
+2023/11/10 22:56:17 [emerg] 224#224: invalid value "" in /etc/nginx/sites-available/idpforge.localhost.conf:9
+2023/11/10 22:56:33 [notice] 237#237: signal process started
+2023/11/10 22:58:42 [notice] 253#253: signal process started
+2023/11/28 16:33:00 [notice] 65#65: signal process started
+2023/12/11 10:24:03 [notice] 20#20: signal process started
+2023/12/11 10:26:20 [notice] 36#36: signal process started
+2023/12/13 11:06:24 [emerg] 9#9: host not found in upstream "php-cli-8.2" in /etc/nginx/sites-available/idpforge.localhost.conf:36
+2023/12/13 17:30:16 [notice] 59#59: signal process started
+2023/12/13 17:39:57 [notice] 75#75: signal process started
+2023/12/13 17:40:25 [notice] 85#85: signal process started
+2023/12/13 17:42:08 [emerg] 96#96: duplicate location "/api/v1" in /etc/nginx/sites-available/idpforge.localhost.conf:70
+2023/12/13 17:42:37 [notice] 108#108: signal process started
+2023/12/13 17:43:33 [notice] 122#122: signal process started
+2023/12/13 17:44:32 [notice] 132#132: signal process started
+2023/12/13 17:48:02 [notice] 143#143: signal process started
+2023/12/13 17:49:37 [notice] 153#153: signal process started
+2023/12/13 17:50:39 [notice] 162#162: signal process started
+2023/12/13 17:50:51 [notice] 172#172: signal process started
+2023/12/13 18:19:22 [notice] 190#190: signal process started
+2023/12/13 18:38:09 [notice] 202#202: signal process started
+2023/12/13 19:19:57 [warn] 216#216: conflicting server name "idpforge.localhost" on 0.0.0.0:80, ignored
+2023/12/13 19:19:57 [warn] 216#216: conflicting server name "idp.localhost" on 0.0.0.0:80, ignored
+2023/12/13 19:20:12 [notice] 228#228: signal process started
+2023/12/13 19:20:48 [notice] 238#238: signal process started
+2023/12/13 19:24:48 [notice] 254#254: signal process started
+2023/12/14 08:41:55 [notice] 21#21: signal process started
+2023/12/14 09:00:22 [emerg] 34#34: unexpected "}" in /etc/nginx/sites-available/idpforge.localhost.conf:34
+2023/12/14 09:00:33 [emerg] 40#40: unknown "auth_resp_failcount" variable
+2023/12/14 09:00:49 [notice] 52#52: signal process started
+2023/12/22 14:16:31 [emerg] 47#47: invalid log level "combined" in /etc/nginx/sites-available/project-b.localhost.conf:6
+2023/12/22 14:16:45 [notice] 59#59: signal process started
+2023/12/24 18:52:34 [notice] 67#67: signal process started
+2023/12/25 19:51:29 [emerg] 14#14: host not found in upstream "emailengine" in /etc/nginx/sites-available/emailengine.localhost.conf:20
+2023/12/27 15:12:41 [notice] 21#21: signal process started
